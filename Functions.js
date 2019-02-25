@@ -51,7 +51,7 @@ var z = parseInt(prompt("Enter number z",0))
 average (x , y , z)
 
 
-//Program 3 - Add a number positive or negative and print the opposite using the function
+//Program 4 - Add a number positive or negative and print the opposite using the function
 
 
 function flip (x)
